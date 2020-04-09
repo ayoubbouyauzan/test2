@@ -1,6 +1,24 @@
 @charset "utf-8";
 /* CSS Document */
 
+.ftco-section {
+	background-color: #FFFFFF;
+	color: black;
+}
+
+span {
+	background-color: black;
+	color:#FFFFFF
+}
+
+.nav-link{
+	color: #000000;
+}
+
+a {
+	color: black;
+}
+
 /* Navigation Menu - Background */
 .navigation {
   /* critical sizing and position styles */

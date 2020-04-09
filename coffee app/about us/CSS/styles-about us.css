@@ -9,7 +9,7 @@ P {
 	background-color: #112C5A;
 	color: #ffffff;
 	text-align: center;
-	height: 100px;
+	height: 50px;
 }
 
 .about3{
@@ -93,6 +93,7 @@ footer{
   z-index: 1;
   
   /* non-critical apperance styles */
+  padding-top: 4em;
   background-size: 200%;
 }
 
