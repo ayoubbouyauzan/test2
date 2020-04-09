@@ -33,15 +33,6 @@ footer{
 }
 
 
-
-
-
-
-
-
-
-
-
 /* Navigation Menu - Background */
 .navigation {
   /* critical sizing and position styles */
@@ -141,7 +132,7 @@ body {
 /* Additional non-critical styles */
 
 h1, h3, p {
-  max-width: 600px;
+  max-width: 900px;
   margin: 0 auto 1em;
 }
 
