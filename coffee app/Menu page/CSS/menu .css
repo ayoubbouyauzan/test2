@@ -1,22 +1,47 @@
 @charset "utf-8";
 /* CSS Document */
 
-.ftco-section {
-	background-color: #FFFFFF;
-	color: black;
+
+#title {
+	text-align: center;
+	font-size: 40px;
+    font-family: "Roboto";
 }
 
-span {
-	background-color: black;
-	color:#FFFFFF
+
+#v-pills-1-tab {
+	color: #000000;
+	background-color:#FFFFFF;
+}
+
+
+#v-pills-2-tab {
+	color: #000000;
+	background-color: #FFFFFF;
+	margin-left:  5px;
+	margin-right: 5px;
+}
+
+#v-pills-3-tab {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.ftco-section {
+	background-color: #112C5A;
 }
 
 .nav-link{
-	color: #000000;
+	color: #0000;
 }
 
-a {
-	color: black;
+h3 {
+	color: #FFFFFF;
+}
+
+.price {
+	color: #000000;
+	background-color: #FFFFFF;
 }
 
 /* Navigation Menu - Background */
@@ -129,7 +154,7 @@ code {
 
 /* Micro reset */
 *,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
-html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-serif; }
+html, body { height: 100%; width: 100%; font-family:"Roboto Medium"; }
 
 
 .body {
@@ -138,46 +163,7 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
 
 body, html {
   height: 100%;
-  font-family: "Inconsolata", sans-serif;
+  font-family: "Roboto Medium";
 }
 
-.bgimg {
-  background-position: center;
-  background-size: cover;
-  background-image: url("");
-  min-height: 75%;
-}
-
-.menu2 {
-  display: none;
-}
-
-span {
-	background-color: #000000
-}
-
-h1{
-	text-align: center
-}
-
-.cancelbtn {
-  width: auto;
-  padding: 10px 18px;
-  background-color: #000000;
-  border-radius: 10px;
-  color: #FFFFFF
-}
-
-#fixedbutton {
-    position: fixed;
-}
-
-.menu{
-	margin-left: -28px;
-	margin-right: -28px;
-}
-
-#menu {
-	margin-left: -28px;
-	margin-right: -28px;
-}
+.

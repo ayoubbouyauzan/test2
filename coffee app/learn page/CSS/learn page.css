@@ -112,7 +112,7 @@ code {
 
 /* Micro reset */
 *,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
-html, body { height: 125%; width: 100%; font-family: Helvetica, Arial, sans-serif; }
+html, body { height: 125%; width: 100%; font-family:"Roboto Medium"; }
 
 /* 
 ** Layout, Text & Colors 
@@ -364,5 +364,10 @@ span {
 #title {
 	text-align: center;
 	font-size: 40px;
+	font-family: "Roboto";
 }
 
+
+body, html {
+  font-family: "Roboto Medium";
+}

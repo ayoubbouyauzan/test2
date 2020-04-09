@@ -28,16 +28,23 @@ img {
 
 h1 {
 	text-align: center;
+	font-size: 40px;
+    font-family: "Roboto";
 }
 
 h5 {
 	text-align: center;
+    font-family: "Roboto";
 }
 
 footer{
 	background-color: #112C5A;
 	color: #ffffff;
 	text-align: center;
+}
+
+P {
+    font-family: lato;
 }
 
 
@@ -150,4 +157,4 @@ code {
 
 /* Micro reset */
 *,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0;}
-html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-serif; }
+html, body { height: 100%; width: 100%; font-family: "Roboto Medium";}
